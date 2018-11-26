@@ -3,8 +3,13 @@
 # Windows
 
 ## AutoHotKey
+### 使用方法一
+  下载下面链接的可执行文件：
+   https://www.jianguoyun.com/p/DekDyeMQ-YHDBhjthogB
+   
+### 使用方法二  
 [AutoHotKey](https://autohotkey.com) 需要先安装。
-按键的脚本可以在这里找到 [here](windows/autohotkey).
+按键的脚本可以在这里找到 [here](windows).
 
 | Shortcut                         | Output                                |
 | -------------------------------- | ----------------------------------    |
