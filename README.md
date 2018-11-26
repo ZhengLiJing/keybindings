@@ -1,15 +1,17 @@
 我的个人windows按键喜好
 
 # Windows
+说明: 编写程序时，方向键时常因为位置问题，需要移动右手，非常不爽，所以写了这个脚本。该按键绑定保持和vim的方向键一致。
+如果想个性化按键绑定，可以看脚本[here](windows/autokey)内的注释进行更改。
 
 ## AutoHotKey
 ### 使用方法一
   下载下面链接的可执行文件：
    https://www.jianguoyun.com/p/DekDyeMQ-YHDBhjthogB
-   
+
 ### 使用方法二  
 [AutoHotKey](https://autohotkey.com) 需要先安装。
-按键的脚本可以在这里找到 [here](windows).
+按键的脚本可以在这里找到 [here](windows/autokey).
 
 | Shortcut                         | Output                                |
 | -------------------------------- | ----------------------------------    |
